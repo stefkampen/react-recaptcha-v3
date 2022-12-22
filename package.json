@@ -32,7 +32,7 @@
   "homepage": "https://github.com/codeep/react-recaptcha-v3#readme",
   "peerDependencies": {
     "prop-types": "^15.6.2",
-    "react": "^15.6.2 || ^16.x || ^17.x"
+    "react": "^15.6.2 || ^16.x || ^17.x || ^18.x"
   },
   "devDependencies": {
     "@babel/core": "^7.1.6",
